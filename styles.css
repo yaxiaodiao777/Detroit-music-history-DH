@@ -1,0 +1,27 @@
+Last login: Fri Nov 22 11:34:55 on ttys000
+yaya@diaoxiaoyadeMacBook-Pro ~ % >....                                          
+audio {
+    display: block;
+    margin-bottom: 20px;
+}
+
+/* Gallery */
+.gallery-img {
+    width: 100%;
+    max-width: 300px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #2c3e50;
+    color: #fff;
+    position: relative;
+}
+
+zsh: parse error near `}'
+yaya@diaoxiaoyadeMacBook-Pro ~ % 
