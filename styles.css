@@ -120,3 +120,42 @@ footer .social-media a:hover {
     color: #fff;
 }
 
+/* Famous Musicians Section */
+#famous-musicians {
+    padding: 20px;
+    background: #f7f7f7;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+#famous-musicians h2 {
+    text-align: center;
+    color: #495057;
+}
+
+.musician {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.musician img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.musician h3 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.musician p {
+    margin: 5px 0 0;
+    font-size: 1em;
+    color: #555;
+}
+
+
